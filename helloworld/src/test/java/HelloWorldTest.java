@@ -19,4 +19,10 @@ public class HelloWorldTest {
 		assertThat(actual, is(true));
 	}
 
+	@Test
+	public void printHelloの全く同じテスト() {
+		HelloWorld sut = new HelloWorld();
+		boolean actual = sut.printHello();
+		assertThat(actual, is(true));		
+	}
 }
