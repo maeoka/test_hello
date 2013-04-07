@@ -11,6 +11,8 @@ public class HelloWorld {
 	public boolean printHello() {
 		System.out.println("hello world!!");
 		return true;
+		
+		// ローカルにMylynタスクを追加してみた．
 	}
 
 }
