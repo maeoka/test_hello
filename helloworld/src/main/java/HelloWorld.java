@@ -13,6 +13,7 @@ public class HelloWorld {
 		return true;
 		
 		// ローカルにMylynタスクを追加してみた．
+		// ローカルのタスクをDoneにしてみた．
 	}
 
 }
