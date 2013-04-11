@@ -12,11 +12,11 @@ public class HelloWorld {
 		System.out.println("hello world!!");
 		return true;
 		
-		// ƒ[ƒJƒ‹‚ÉMylynƒ^ƒXƒN‚ð’Ç‰Á‚µ‚Ä‚Ý‚½D
-		// ƒ[ƒJƒ‹‚Ìƒ^ƒXƒN‚ðDone‚É‚µ‚Ä‚Ý‚½D
-		// ƒuƒ‰ƒ“ƒ`•ª‚¯
+		// ãƒ­ãƒ¼ã‚«ãƒ«ã«Mylynã‚¿ã‚¹ã‚¯ã‚’è¿½åŠ ã—ã¦ã¿ãŸï¼Ž
+		// ãƒ­ãƒ¼ã‚«ãƒ«ã®ã‚¿ã‚¹ã‚¯ã‚’Doneã«ã—ã¦ã¿ãŸï¼Ž
+		// ãƒ–ãƒ©ãƒ³ãƒåˆ†ã‘
 		
-		// ƒ}ƒXƒ^[‘¤‚ðC³
+		// ãƒžã‚¹ã‚¿ãƒ¼å´ã‚’ä¿®æ­£
 	}
 
 }
