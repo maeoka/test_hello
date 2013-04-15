@@ -17,6 +17,8 @@ public class HelloWorld {
 		// ブランチ分け
 		
 		// マスター側を修正
+		
+		// SJISファイルに
 	}
 
 }
